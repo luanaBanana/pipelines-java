@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/luanacusseddu/luanacusseddu/_apis/build/status/luanaBanana.pipelines-java?branchName=master)](https://dev.azure.com/luanacusseddu/luanacusseddu/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
